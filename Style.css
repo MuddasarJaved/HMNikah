@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(45deg, darkblue, lightblue, darkblue);
+  }
+  p {
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Just Another Hand'; cursive;
+
+  }
+  h1 {
+    position: relative;
+    top: 0px;
+    font-family: 'Dancing Script'; sarif;
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+    color: red;
+    background-image: url(C:/Users/muddasar/OneDrive/Desktop/HTML/bluerose.jpg)
+
+  }
+  h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Just Another Hand'; cursive;
+
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 5%;
+    background-color: black;
+
+  }
+  .center:hover {
+    transform: scale(1.3);
+  }
